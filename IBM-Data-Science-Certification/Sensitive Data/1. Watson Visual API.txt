@@ -1,4 +1,0 @@
-Watson Visual Recognition API:
-https://api.us-south.visual-recognition.watson.cloud.ibm.com/instances/da83869a-6d3d-41e1-ba98-45078a087802
-Key:
-LNd3Q35I2vYKrWGSyS5iZiksUWbYJKARZ9VW_rCAhSvd
