@@ -1,3 +1,0 @@
-API Resourse and KEY:
-https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/794b8908-0c17-4f1f-9ce6-ab930b4765b6
-Xff2UY1sKVW8t4fJolV21id5FNsDnKFu_kAX8LjBlP69
